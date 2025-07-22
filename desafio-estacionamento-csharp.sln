@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desafio-estacionamento-csharp", "desafio-estacionamento-csharp.csproj", "{18859705-AE5A-0DC3-2941-DBD01FA367B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18859705-AE5A-0DC3-2941-DBD01FA367B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18859705-AE5A-0DC3-2941-DBD01FA367B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18859705-AE5A-0DC3-2941-DBD01FA367B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18859705-AE5A-0DC3-2941-DBD01FA367B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3E2A20A-BFEF-4832-BE95-82325C23CE69}
+	EndGlobalSection
+EndGlobal
